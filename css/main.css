@@ -86,4 +86,5 @@ div {
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.5em;
     box-shadow: 5px 5px grey;
+    cursor: pointer;
 }
